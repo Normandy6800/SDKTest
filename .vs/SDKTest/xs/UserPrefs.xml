@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{D6155BDB-38C6-F581-AF62-56BF9E2E3024}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SdkMgr.cs">
+    <Files>
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="12" Column="16" />
+      <File FileName="Assets/Scripts/SdkMgr.cs" Line="28" Column="13" />
+      <File FileName="Assets/Scripts/SdkAndroid.cs" Line="28" Column="36" />
+      <File FileName="Assets/Scripts/SdkIos.cs" Line="19" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SDKTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="SdkMgr.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SDKTest PreferredExecutionTarget="55a37904-6e88-4800-88a5-790fc11a72d3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Works/SDKTest/Assets/FileTest.cs" relfile="Assets/FileTest.cs" line="25" column="24" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
